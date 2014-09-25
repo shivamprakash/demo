@@ -9,5 +9,7 @@ namespace ClassLibrary1
     public class Class1
     {
         int a = 10;
+        int b = 20;
+        Console.Writeline("check");
     }
 }
